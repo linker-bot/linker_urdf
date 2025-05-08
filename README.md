@@ -1,4 +1,4 @@
 [English](README.md) | [中文](README_zh.md)
 
-# LinkerHand URDF 模型
+# LinkerHand URDF Models
 
